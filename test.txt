@@ -8,3 +8,7 @@ Adding comments (Prasanna)
 
 test1
 
+<<<<<<< HEAD
+=======
+hello testing by avinash
+>>>>>>> 7b9cd2d07de7674837cb3bd9d8400fd73abcda06
